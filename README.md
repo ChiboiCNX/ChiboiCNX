@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Ezeh Stanley Chibuzor AKA Juryrigg
-🧑‍💻 Programmer | 🔐 Penetration Tester | 💡 Tech Enthusiast
+🧑‍💻 Programmer | 🔐 Aspiring Penetration Tester | 💡 Tech Enthusiast
 Welcome to my GitHub profile! I am a passionate programmer with a strong interest in penetration testing and cybersecurity. My goal is to build secure, high-performance applications while continuously learning about vulnerabilities and how to protect against them.
 
 🚀 About Me:
